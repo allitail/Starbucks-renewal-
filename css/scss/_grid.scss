@@ -1,0 +1,10 @@
+/*media query*/
+
+@import "../scss/variabels.scss";
+
+@mixin moblie {
+    @media (min-width: #{$breakpoint-mobile}) and (max-width: #{$breakpoint-tablet - 1px}) {
+        @content;
+      
+    }
+}

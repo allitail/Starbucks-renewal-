@@ -1,0 +1,74 @@
+.image {
+    /* z-index: 1;
+    display: inline-block; */
+}
+
+
+
+
+
+.summerbeans {
+    width: 1400px;
+    height: 3815px;
+    background-image: url("https://www.starbucksathome.com/kr/sites/default/files/2022-05/vertical-carousel.jpg");
+    background-size: cover;
+}
+
+
+.icetitle {
+    
+}
+
+.scrollAll {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    /* width: 1400px;
+    height: 3815px; */
+    width: 258px;
+    height: 1604px;
+}
+
+
+
+.leftscroll {
+    width: 258px;
+    height: 322px;
+    /* width: 200px;
+    height: 200px; */
+    background-color: blue;
+
+}
+
+
+
+
+
+.fixmiddle {
+    width: 653px;
+    height: 3597px;
+}
+
+.rightscroll {
+    width: 258px;
+    height: 322px;
+  background-color: burlywood;
+}
+
+
+.scrollAll,
+.fixmiddle,
+.scrollall {
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+ 
+
